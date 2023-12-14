@@ -1,0 +1,102 @@
+
+body, h1, h2, p, ol, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    color: #333;
+
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #f8f8f8;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+
+h1, h2 {
+    color: #333;
+}
+
+header .header-text {
+    color: red;
+}
+
+#videoSection {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+}
+
+iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+}
+
+ol, ul {
+    padding-left: 20px;
+    margin-bottom: 20px;
+
+}
+
+ol li, ul li {
+    margin-bottom: 10px;
+}
+
+img {
+    width: 100%;
+    max-width: 560px;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+
+h5 {
+    margin-top: 20px;
+    color: #333;
+}
+
+.tableauPlaceholder {
+    margin-top: 20px;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    background-color: #333;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #555;
+}
+
+.orange-text {
+    color: orange
+}
+
+.red-text {
+    color: red;
+}
+
+.greentext {
+    color: green;
+}
